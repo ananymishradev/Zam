@@ -1,0 +1,12 @@
+# Private research and build documents — do not publish
+/finance/
+/finance (Copy)/
+/docs/
+/Kit 03 Payment Ops Incident Commander Production Build Spec.md
+
+# Local secrets and build artifacts
+.env
+bin/
+coverage.out
+*.test
+.superpowers/
