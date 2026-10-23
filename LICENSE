@@ -1,0 +1,56 @@
+ZAM PROPRIETARY LICENSE
+
+Copyright (c) 2026 Anany Mishra (@ananymishradev). All rights reserved.
+
+This repository, including all source code, object code, prompts, schemas, tests, documentation, diagrams, images, text, and other files (the "Software"), is proprietary and is not open source. The copyright holder is Anany Mishra.
+
+1. NO LICENSE GRANTED
+
+No license, right, or permission is granted to you, whether by implication, estoppel, or otherwise, except for the limited permission to view the public repository pages for evaluation only. That permission does not include downloading, running, copying, or using the Software. All other rights are reserved.
+
+2. PROHIBITED USES
+
+Unless you have prior written permission from the copyright holder, you must not:
+
+(a) copy, reproduce, download, clone, fork, mirror, archive, or store the Software or any part of it;
+(b) modify, adapt, translate, or create derivative works from the Software;
+(c) distribute, publish, post, sublicense, sell, rent, lease, lend, or otherwise make the Software available to any third party;
+(d) use the Software in any product, service, internal tool, or commercial activity;
+(e) use the Software to train, fine-tune, evaluate, benchmark, or develop any machine learning or artificial intelligence model;
+(f) use the Software to build or improve a competing product or service;
+(g) remove, alter, or obscure any copyright, license, or attribution notice; or
+(h) use any name, logo, or trademark of the copyright holder.
+
+3. NO AI TRAINING
+
+For clarity, the prohibition in Section 2(e) includes training, retrieval-augmented generation, fine-tuning, distillation, benchmarking, model evaluation, and dataset creation.
+
+4. NO PATENT OR TRADEMARK RIGHTS
+
+This license does not grant any patent, trademark, service mark, trade secret, or other intellectual property right.
+
+5. THIRD-PARTY MATERIAL
+
+Third-party components, including fonts embedded in the SVG files, remain subject to their own licenses. This license does not grant rights to those components.
+
+6. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER IS NOT LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM THE SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. TERMINATION
+
+Any breach of this license terminates all rights under it immediately. On termination, you must stop all use and destroy all copies in your possession or control.
+
+9. SEVERABILITY
+
+If any provision of this license is held unenforceable, the remaining provisions remain in full force.
+
+10. ENTIRE AGREEMENT
+
+This license is the entire agreement between you and the copyright holder about the Software and replaces any prior understanding on that subject. Only a written document signed by the copyright holder can grant an exception.
+
+For permission, contact @ananymishradev on GitHub.
